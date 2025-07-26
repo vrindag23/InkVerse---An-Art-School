@@ -1,0 +1,44 @@
+Folder PATH listing for volume OS
+Volume serial number is 40AB-3060
+C:\USERS\ASUS\NEXT.JS\MUSIC\SRC
++---app
+¦   ¦   favicon.ico
+¦   ¦   globals.css
+¦   ¦   layout.tsx
+¦   ¦   page.tsx
+¦   ¦   
+¦   +---contact
+¦   ¦       page.tsx
+¦   ¦       
+¦   +---courses
+¦           page.tsx
+¦           
++---components
+¦   ¦   FeaturedCourses.tsx
+¦   ¦   Footer.tsx
+¦   ¦   HeroSection.tsx
+¦   ¦   Instructors.tsx
+¦   ¦   Navbar.tsx
+¦   ¦   TestimonialCards.tsx
+¦   ¦   UpcomingWebinars.tsx
+¦   ¦   WhyChooseUs.tsx
+¦   ¦   
+¦   +---ui
+¦           3d-card.tsx
+¦           animated-tooltip.tsx
+¦           background-beams.tsx
+¦           background-gradient.tsx
+¦           card-hover-effect.tsx
+¦           infinite-moving-cards.tsx
+¦           moving-border.tsx
+¦           navbar-menu.tsx
+¦           Spotlight.tsx
+¦           sticky-scroll-reveal.tsx
+¦           wavy-background.tsx
+¦           
++---data
+¦       music_courses.json
+¦       
++---utils
+        cn.ts
+        
